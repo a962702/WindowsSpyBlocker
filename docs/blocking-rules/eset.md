@@ -1,7 +1,7 @@
 # ESET Firewall
 
 !!! info
-    ESET blocking rules available at [{{ config.repo_url }}tree/master/data/eset]({{ config.repo_url }}tree/master/data/firewall)
+    ESET blocking rules available at [{{ config.repo_url }}tree/master/data/eset]({{ config.repo_url }}tree/master/data/eset)
 
 [ESET Firewall](https://www.eset.com/us/firewall/) a proprietary firewall solution.
 

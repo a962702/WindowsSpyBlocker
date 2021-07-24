@@ -1,7 +1,7 @@
 # DNSCrypt
 
 !!! info
-    DNSCrypt blocking rules available at [{{ config.repo_url }}tree/master/data/dnscrypt]({{ config.repo_url }}tree/master/data/firewall)
+    DNSCrypt blocking rules available at [{{ config.repo_url }}tree/master/data/dnscrypt]({{ config.repo_url }}tree/master/data/dnscrypt)
 
 [DNSCrypt](https://dnscrypt.org/) is a protocol for securing communications between a client and a DNS resolver.
 With this tool you can blacklist some domains with the plugin
